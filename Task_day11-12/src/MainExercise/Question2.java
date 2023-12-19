@@ -1,4 +1,4 @@
-package MainExercise;
+package src.MainExercise;
 
 import java.util.HashSet;
 import java.util.Iterator;

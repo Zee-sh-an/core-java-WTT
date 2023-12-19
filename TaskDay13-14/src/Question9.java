@@ -1,3 +1,5 @@
+package src;
+
 class Counter{
     static int count;
     synchronized  public static int increment() throws InterruptedException {

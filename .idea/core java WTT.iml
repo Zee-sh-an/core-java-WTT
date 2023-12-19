@@ -2,7 +2,15 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/TaskDay13-14" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TaskDay1_2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TaskDay3_4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TaskDay5_6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TaskDay9-10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Task_Day7-8" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Task_day11-12" isTestSource="false" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

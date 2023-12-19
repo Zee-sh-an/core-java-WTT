@@ -1,3 +1,5 @@
+package src;
+
 class ThreadOne implements Runnable {
 
     @Override

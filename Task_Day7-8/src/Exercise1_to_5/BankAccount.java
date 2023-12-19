@@ -1,4 +1,4 @@
-package Exercise1_to_5;
+package src.Exercise1_to_5;
 
 public class BankAccount{
     private  int Balance;

@@ -1,4 +1,4 @@
-package Task_Day_5_6;
+package src.Task_Day_5_6;
 
 class  Student{
     String name;

@@ -1,4 +1,4 @@
-package MainExercise;
+package src.MainExercise;
 
 import java.util.LinkedList;
 import java.util.ListIterator;

@@ -1,4 +1,4 @@
-package MainExercise;
+package src.MainExercise;
 
 import java.io.*;
 import java.util.Scanner;
